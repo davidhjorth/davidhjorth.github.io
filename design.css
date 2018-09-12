@@ -1,13 +1,13 @@
-body 	{background-color lightgray; margin: 0px;}
-form		{color: black; text-align: left;}
+body 	{background-color: lightgray; margin: 0px;}
+
 
 
 .header {
 	background-color: gray; 
-	color: #f5f5dc;
-	height: 18vh; 
+	color: white;
+	height: 7vh; 
 	width: 100%; 
-	font-size: 28px; 
+	font-size: 17px; 
 	text-align: center; 
 	padding: 0px; 
 	margin: 0px;
@@ -39,7 +39,7 @@ form		{color: black; text-align: left;}
 }
 ul {
 	list-style-type: none; 
-	background-color: maroon; 
+	background-color: gray; 
 	margin: 0px; 
 	padding: 0px; 
 	overflow: hidden;
